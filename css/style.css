@@ -8734,6 +8734,37 @@ h1, h2, h3, h4, h5,
     font-weight: 700;
     color: #000000; }
 
+.resume-wrap2 {
+  width: 100%;
+  margin-bottom: 100px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding-bottom: 20px; }
+  .resume-wrap2 .icon {
+    width: 50px;
+    height: 50px;
+    background: #3e64ff;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%; }
+    .resume-wrap2 .icon span {
+      color: #fff;
+      font-size: 28px; }
+  .resume-wrap2 .text {
+    width: calc(100% - 50px); }
+  .resume-wrap2 .date {
+    font-weight: 700;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.6);
+    color: #3e64ff; }
+  .resume-wrap2 h2 {
+    font-size: 24px;
+    font-weight: 700; }
+  .resume-wrap2 .position {
+    font-size: 18px;
+    font-weight: 700;
+    color: #000000; }    
+
 .ftco-partner {
   padding: 4em 0 !important; }
   .ftco-partner .partner {
