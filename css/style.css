@@ -9078,7 +9078,8 @@ textarea.form-control {
 
 .ftco-animate {
   opacity: 0;
-  visibility: hidden; }
+  visibility: hidden;
+  margin: auto; }
 
 .bg-primary {
   background: #3e64ff !important; }
@@ -9272,6 +9273,11 @@ textarea.form-control {
 .mfp-with-zoom.mfp-removing .mfp-container,
 .mfp-with-zoom.mfp-removing.mfp-bg {
   opacity: 0; }
+
+.text-in {
+  text-indent: 10px;
+
+}
 
 #section-counter {
   position: relative;
